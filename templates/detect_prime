@@ -1,0 +1,4 @@
+<form method="POST" action="">
+    enter_number<input type="text" name="prime_no"/>
+    <input type="submit">
+</form>
